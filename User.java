@@ -1,6 +1,5 @@
 import java.util.ArrayList;
 public class User {
-
     private String userID;
     private String userPIN;
     private String Name;

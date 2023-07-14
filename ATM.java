@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class ATM {
     private Account bank;
     private Scanner scanner;
-
     public ATM() {
         this.bank = new Account();
         this.scanner = new Scanner(System.in);
