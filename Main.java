@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Welcome to the ATM");
+        System.out.println("Welcome to the console based ATM application");
         ATM atm = new ATM();
         while (true) {
             if (atm.login()) {
