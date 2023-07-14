@@ -41,7 +41,7 @@ public class Main {
                 }
             }
             else {
-                System.out.println("Invalid user ID or PIN, please try again");
+                System.out.println("Invalid user ID or PIN, Try again");
             }
 
         }
