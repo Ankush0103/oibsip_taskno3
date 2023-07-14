@@ -5,7 +5,6 @@ public class Account {
     public Account() {
         this.users = new ArrayList<>();
         this.currentUser = null;
-
         users.add(new User("user1", "1234", "Account1",  1000.0));
         users.add(new User("user2", "5678", "Account2",  500.0));
     }
