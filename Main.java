@@ -10,9 +10,9 @@ public class Main {
                 while (true) {
                     System.out.println("Choose an option:");
                     System.out.println("1. View transaction history");
-                    System.out.println("2. Withdraw");
-                    System.out.println("3. Deposit");
-                    System.out.println("4. Transfer");
+                    System.out.println("2. Withdraw Money");
+                    System.out.println("3. Deposit Money");
+                    System.out.println("4. Transfer Money");
                     System.out.println("5. Quit");
                     System.out.print("Enter your Choice: ");
                     int choice = scanner.nextInt();
